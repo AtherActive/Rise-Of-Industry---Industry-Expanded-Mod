@@ -3,10 +3,10 @@
   "object": {
     "category": "Components",
     "disableContracts": false,
-    "displayName": "Antenna",
+    "displayName": "test",
     "isEndgameProduct": false,
-    "name": "GS_Antenna",
+    "name": "GS_test",
     "priceFormula": "Factories",
-    "svgIcon": "antenaicon"
+    "svgIcon": "testicon"
   }
 }
