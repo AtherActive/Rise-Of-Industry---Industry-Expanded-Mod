@@ -1,0 +1,12 @@
+{
+  "type": "ProjectAutomata.ProductDefinition",
+  "object": {
+    "category": "Components",
+    "disableContracts": false,
+    "displayName": "Antenna",
+    "isEndgameProduct": false,
+    "name": "GS_Antenna",
+    "priceFormula": "Factories",
+    "svgIcon": "antenaicon"
+  }
+}

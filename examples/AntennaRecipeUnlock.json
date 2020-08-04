@@ -1,0 +1,21 @@
+{
+  "type": "ProjectAutomata.TechTreeRecipeUnlock",
+  "object": {
+    "svgIcon": "antenaicon",
+    "name": "GS_Antenna",
+    "displayName": "Antenna",
+    "description": "Able to produce Antenna at Glasworks & Smelter.",
+    "requiredUnlocks": [ "Copper Wire", "SteelFrame", "Radio Receiver" ],
+    "includedUnlocks": [ "Glassworks & Smelter" ],
+    "researchCost": "Research Cost",
+    "researchTime": "Research Time",
+    "tier": 3,
+    "trees": [
+      {
+        "tree": "FiberGlassTechTree",
+        "column": 4
+      }
+    ],
+    "recipes": [ "GS_Antenna" ]
+  }
+}

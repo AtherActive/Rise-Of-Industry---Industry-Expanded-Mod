@@ -1,0 +1,30 @@
+{
+  "type": "ProjectAutomata.Recipe",
+  "object": {
+    "name": "GS_Antenna",
+    "displayName": "Antenna",
+    "description": "Where are you gonna place the receivers if there is no antenna?",
+    "svgIcon": "antenaicon",
+    "gameDays": 180,
+    "ingredients": [
+      {
+        "productName": "CopperWire",
+        "amount": 2
+      },
+      {
+        "productName": "SteelFrame",
+        "amount": 3
+      },
+      {
+        "productName": "RadioReceiver",
+        "amount": 2
+      }
+    ],
+    "result": [
+      {
+        "productName": "GS_Antenna",
+        "amount": 1
+      }
+    ]
+  }
+}
